@@ -45,5 +45,10 @@
 	<string>test</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+    
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+    </array>
 </dict>
 </plist>
